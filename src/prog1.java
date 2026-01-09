@@ -27,4 +27,3 @@ public class prog1{
         sc.close();
     }
 }
-
