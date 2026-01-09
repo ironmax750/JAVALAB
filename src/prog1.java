@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
-public class NAME{
+public class prog1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Input from user
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
 
